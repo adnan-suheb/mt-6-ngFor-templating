@@ -1,0 +1,13 @@
+
+
+.title{
+    font-size: 33px;
+    text-overflow: ellipsis;
+    text-wrap: nowrap;
+    overflow: hidden;
+}
+
+.content{
+    height: 120px;
+    overflow: auto;
+}
